@@ -3,7 +3,7 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
 	<title></title>
-	<link rel="stylesheet" href="/yy/Public/admin/css/admin.css" />
+	<link rel="stylesheet" href="/bbsGit/Public/admin/css/admin.css" />
 </head>
 <body>
 	<table class="table">

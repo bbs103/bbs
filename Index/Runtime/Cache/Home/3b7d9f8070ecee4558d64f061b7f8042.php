@@ -5,8 +5,8 @@
 <meta name="keywords" content="php培训常见问题" />
 <meta name="description" content="php培训的龙头老大,口碑最好的php培训机构，问天下培训机构谁与争锋? " />
 <title>传智播客-php培训常见问题</title>
-<link href="/yy/Public/css/css.css" type="text/css" rel="stylesheet" />
-<link href="/yy/Public/css/nav/nav_question.css" type="text/css" rel="stylesheet" />
+<link href="/bbsGit/Public/css/css.css" type="text/css" rel="stylesheet" />
+<link href="/bbsGit/Public/css/nav/nav_question.css" type="text/css" rel="stylesheet" />
 <script type="text/javascript" src="/js/jquery-1.9.1.min.js"></script>
 </head>
 
@@ -14,13 +14,13 @@
 	<div id="header">
 	<!-- 页面顶部 -->
 <div class="top1">
-	<p class="fl" style="background:url(/yy/Public/images/hot.png) 107px 10px no-repeat; padding-right:35px;"><span class="blue">专业的IT培训机构！</span></p>
+	<p class="fl" style="background:url(/bbsGit/Public/images/hot.png) 107px 10px no-repeat; padding-right:35px;"><span class="blue">专业的IT培训机构！</span></p>
 	<p class="fr"><a href="http://www.itcast.cn/channel/job.shtml" target="_blank">就业宣言</a><a href="http://www.itcast.cn/channel/flow.shtml" target="_blank">报名流程</a><a href="http://open.itcast.cn" target="_blank">免费公开课</a><a href="http://dvd.itcast.cn" target="_blank">免费学习光盘</a><a href="http://www.itcast.cn/channel/book.shtml" target="_blank">原创教材</a><a href="http://bbs.itcast.cn/zine.php" target="_blank">传智特刊</a><a target="_blank" href="http://www.itcast.cn/channel/personnel.shtml">人才服务</a><a href="http://bbs.itcast.cn" target="_blank">技术论坛</a></p>
 </div>
 
 	<div class="clear"></div>
 	<div class="top2">
-		<h1 class="fl"><a href="http://www.itcast.cn"><img src="/yy/Public/images/logo.gif" alt="传智播客php培训学院" border="0"  class="png"/></a></h1>
+		<h1 class="fl"><a href="http://www.itcast.cn"><img src="/bbsGit/Public/images/logo.gif" alt="传智播客php培训学院" border="0"  class="png"/></a></h1>
 		<div class="fl toubu">
 		<div class="toubu-font1">PHP学院</div>
 			 <!-- 校区 -->
@@ -33,12 +33,12 @@
 <p><a href="http://xa.itcast.cn" target="_blank">西安校区</a></p>
 <!-- 校区 --> 
 		</div>
-		<p class="fr"><img src="/yy/Public/images/topword.gif" alt="改变中国教育，我们正在行动..." class="png"/></p>
+		<p class="fr"><img src="/bbsGit/Public/images/topword.gif" alt="改变中国教育，我们正在行动..." class="png"/></p>
 	</div>
 	<div class="clear"></div>
 		<ul id="nav">
-		<li><a href="/yy/index.php/Home/Index/index" id="nav_main">首 页</a></li>
-	 <LI class="widt"><A id="nav_course" href="/yy/index.php/Home/Index/course">PHP培训课程</A> 
+		<li><a href="/bbsGit/index.php/Home/Index/index" id="nav_main">首 页</a></li>
+	 <LI class="widt"><A id="nav_course" href="/bbsGit/index.php/Home/Index/course">PHP培训课程</A> 
   </LI>
   <LI class="widt"><A id="nav_videodl" href="http://php.itcast.cn/php/video.shtml">PHP视频下载</A> 
   </LI>
@@ -46,21 +46,21 @@
   href="http://www.itcast.cn/channel/personnel.shtml">人才服务</A></LI>
   <LI id="nav_life"><A href="http://www.itcast.cn/channel/campus.shtml">校园生活</A> 
   </LI>
-  <LI id="nav_teacher"><a href="/yy/index.php/Home/Index/teach">师资力量</a> 
+  <LI id="nav_teacher"><a href="/bbsGit/index.php/Home/Index/teach">师资力量</a> 
   </LI>
-  <LI id="nav_job"><A href="/yy/index.php/Home/Index/jiuye">就业信息</A> </LI>
+  <LI id="nav_job"><A href="/bbsGit/index.php/Home/Index/jiuye">就业信息</A> </LI>
   <LI id="nav_flow"><A href="http://www.itcast.cn/channel/flow.shtml">报名流程</A> 
   </LI>
   <LI id="nav_book"><A href="http://www.itcast.cn/channel/book.shtml">原创教材</A> 
   </LI>
   <LI id="nav_question"><A 
-  href="/yy/index.php/Home/Index/question">常见问题</A></LI>
+  href="/bbsGit/index.php/Home/Index/question">常见问题</A></LI>
   <LI><A href="http://www.itcast.cn/channel/contact.shtml">来校路线</A></LI>
   <LI><A href="http://Index.itcast.cn/" target="_blank">技术论坛 </A></LI></UL></DIV>
 
 	<div id="box">
 		<div id="left" class="fl">
-			<div><img src="/yy/Public/images/lefttop.gif"/></div>
+			<div><img src="/bbsGit/Public/images/lefttop.gif"/></div>
 			<div class="left_content">
 				<h2 class="title1"><span class="STYLE3">常见</span><span class="STYLE2">问题</span></h2>
 				<h3 class="title2">热点问题</h3>
@@ -91,10 +91,10 @@
 				<h3 class="title2">PHP相关问题</h3>
 				<ul class="links">
 <ul>
-<li><a href="http://php.itcast.cn/news/20130409/11151678932.shtml" target="_blank">PHP的就业前景到底怎么样？</a><img height="15" src="/yy/Public/images/new.gif" width="29" /></li>
-<li><a href="http://php.itcast.cn/news/20130409/11292928854.shtml" target="_blank">什么样的公司需要php技术？</a><img height="15" src="/yy/Public/images/new.gif" width="29" /></li>
-<li><a href="http://php.itcast.cn/news/20130409/11303961319.shtml" target="_blank">php和java的区别在哪里？</a><img height="15" src="/yy/Public/images/new.gif" width="29" /></li>
-<li><a href="http://php.itcast.cn/news/20130409/1131470655.shtml" target="_blank">二三线城市学php好就业吗？</a><img height="15" src="/yy/Public/images/new.gif" width="29" /></li>
+<li><a href="http://php.itcast.cn/news/20130409/11151678932.shtml" target="_blank">PHP的就业前景到底怎么样？</a><img height="15" src="/bbsGit/Public/images/new.gif" width="29" /></li>
+<li><a href="http://php.itcast.cn/news/20130409/11292928854.shtml" target="_blank">什么样的公司需要php技术？</a><img height="15" src="/bbsGit/Public/images/new.gif" width="29" /></li>
+<li><a href="http://php.itcast.cn/news/20130409/11303961319.shtml" target="_blank">php和java的区别在哪里？</a><img height="15" src="/bbsGit/Public/images/new.gif" width="29" /></li>
+<li><a href="http://php.itcast.cn/news/20130409/1131470655.shtml" target="_blank">二三线城市学php好就业吗？</a><img height="15" src="/bbsGit/Public/images/new.gif" width="29" /></li>
 <li><a href="http://php.itcast.cn/news/20130409/11325021761.shtml" target="_blank">学完php之后可以做什么？</a></li>
 <li><a href="http://php.itcast.cn/news/20130409/11334990300.shtml" target="_blank">前端的东西能学多少，有哪些？</a></li>
 <li><a href="http://php.itcast.cn/news/20130409/14473489532.shtml" target="_blank">php学完就业时都能出哪些类型的网站？</a></li>
@@ -108,7 +108,7 @@
 
 			    </ul>
 			</div>
-			<div><img src="/yy/Public/images/leftbottom.gif"/></div>
+			<div><img src="/bbsGit/Public/images/leftbottom.gif"/></div>
 		</div>		
 		<div id="right" class="fl">
 			<h4 class="righttitle1"><span class="fl">PHP视频下载</span><span class="fr"><a href="/php/video.shtml">+MORE</a></span></h4>
@@ -134,14 +134,14 @@
 </ul>
 
 			</ul>
-			<div class="rightbottom"><img src="/yy/Public/images/rightbottom.jpg"/></div>
+			<div class="rightbottom"><img src="/bbsGit/Public/images/rightbottom.jpg"/></div>
 	  </div>
 	</div>
 	<div class="clear"></div>
  <!-- 页面底部 -->
 <div id="footer">
   <div class="footer_info">
-    <p class="fl mar"><!--<img src="/yy/Public/images/footlogo.jpg" />--></p>
+    <p class="fl mar"><!--<img src="/bbsGit/Public/images/footlogo.jpg" />--></p>
     <p><a href="http://www.itcast.cn/channel/introduction.shtml" target="_blank" style="padding-left:0;">传智简介</a>|<a href="http://weibo.com/itcast" target="_blank">官方微博</a>|<a href="http://bbs.itcast.cn/forum.php?mod=forumdisplay&fid=175&filter=typeid&typeid=180" target="_blank">传智快报</a>|<a href="http://bbs.itcast.cn/forum.php?mod=forumdisplay&fid=184&filter=typeid&typeid=217" target="_blank">校区活动</a>|<a href="http://www.itcast.cn/channel/campus.shtml" target="_blank">校园生活</a>|<a href="http://www.itcast.cn/channel/personnel.shtml" target="_blank">人才服务</a>|<a href="http://www.itcast.cn/channel/flow.shtml" target="_blank">汇款账号</a>|<a href="http://www.itcast.cn/channel/zhaopin.shtml" target="_blank">招贤纳士</a>|<a href="http://www.itcast.cn/channel/contact.shtml" target="_blank">联系我们</a></p>
     <p>传智播客-专业java培训、.net培训、php培训、iOS培训、C++培训、网页设计、平面设计、网络营销培训机构</p>
     <p>版权所有 2006 - 2014 北京传智播客教育科技有限公司</p>
@@ -162,16 +162,16 @@
         DD_belatedPNG.fix('titZx');
     </script>
 <![endif]-->
-<LINK rel=stylesheet type=text/css href="/yy/Public/css/common.css">
+<LINK rel=stylesheet type=text/css href="/bbsGit/Public/css/common.css">
 <!--[if lte IE 6]>
 <link type="text/css" rel="stylesheet" href="/kefu/css/ie.css" mce_href="/kefu/css/ie.css" />
 <![endif]-->
-<SCRIPT type=text/javascript src="/yy/Public/js/jquery.js"></SCRIPT>
-<SCRIPT type=text/javascript src="/yy/Public/js/kefu.js"></SCRIPT>
+<SCRIPT type=text/javascript src="/bbsGit/Public/js/jquery.js"></SCRIPT>
+<SCRIPT type=text/javascript src="/bbsGit/Public/js/kefu.js"></SCRIPT>
 <SCRIPT type=text/javascript>kfguin="800068868";ws="www.itcast.cn"; companyname=""; welcomeword=""; type="1";</SCRIPT>
-<SCRIPT src="/yy/Public/js/kf.js" type=text/javascript></SCRIPT>
-<link href="/yy/Public/css/init.css" mce_href="/yy/Public/css/init.css" rel="stylesheet" type="text/css" />
-<link href="/yy/Public/css/kefu.css" mce_href="/yy/Public/css/kefu.css" rel="stylesheet" type="text/css" />
+<SCRIPT src="/bbsGit/Public/js/kf.js" type=text/javascript></SCRIPT>
+<link href="/bbsGit/Public/css/init.css" mce_href="/bbsGit/Public/css/init.css" rel="stylesheet" type="text/css" />
+<link href="/bbsGit/Public/css/kefu.css" mce_href="/bbsGit/Public/css/kefu.css" rel="stylesheet" type="text/css" />
 <!--[if lte IE 6]>
 <link type="text/css" rel="stylesheet" href="/kefu2/ie.css" mce_href="/kefu2/ie.css" />
 <![endif]-->
@@ -187,13 +187,13 @@
 				</li>
 				<li class="fr_c2_li3" style="padding:6px 0 0 12px; height:30px; width:90px; border-bottom:none;">
 					<!-- WPA Button Begin -->
-					<a href="http://cnrdn.com/iP66" target="_blank"><img src="/yy/Public/images/wpa_preview_a02.png"/></a>
+					<a href="http://cnrdn.com/iP66" target="_blank"><img src="/bbsGit/Public/images/wpa_preview_a02.png"/></a>
 					<!-- WPA Button End -->
 				</li>
 			</ul>
 		</div>
 		<div class="fr_c3">
-			<a href="http://cnrdn.com/iP66" target="_blank"><img src="/yy/Public/images/right_float_web.png" width="122" height="50" /></a>
+			<a href="http://cnrdn.com/iP66" target="_blank"><img src="/bbsGit/Public/images/right_float_web.png" width="122" height="50" /></a>
 		</div>
 		<div class="fr_c4">
 			<ul>

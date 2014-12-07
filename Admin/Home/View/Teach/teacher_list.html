@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+	<title></title>
+	<link rel="stylesheet" href="__PUBLIC__/admin/css/public.css" />
+	<script type="text/javascript" src="__PUBLIC__/admin/js/jquery-1.7.2.min.js"></script>
+	<script type="text/javascript" src="__PUBLIC__/admin/js/public.js"></script>	
+</head>
+<body>
+	<table class="table">
+		<tr>
+			<td class="th" colspan="10">师资列表</td>
+		</tr>
+		<tr>
+			<td class="tdLittle1">AID</td>
+			<td class="tdLittle2">教师姓名</td>
+			<td class="tdLittle2">教师职称</td>
+			<td class="tdLtitle3">教师简介</td>
+			<td class="tdLtitle4">教师照片</td>
+			<td class="tdLtitle7">操作</td>
+		</tr>
+		<foreach name='info' item='val'>
+		<tr>
+			<td >{$val.id}</td>
+			<td>{$val.t_name}</td>
+			<td><a href="">{$val.t_job}</a></td>
+			<td>{$val.t_intro}</td>
+			<td><img src="__ROOT__/Public/{$val.t_photo}" height=80 width=60/></td>
+			<td>
+				
+				<a href="__APP__/Home/Teach/edite?id={$val.id}">[修改]</a>
+				<a href="__APP__/Home/Teach/del?id={$val.id}">[删除]</a>
+			</td>
+		</tr>
+		</foreach>
+	</table>
+	<div class="page">
+		{$page}
+	</div>
+</body>
+</html>

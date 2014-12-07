@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
-		<link rel="stylesheet" href="/yy/Public/admin/css/public.css" />
+		<link rel="stylesheet" href="/bbsGit/Public/admin/css/public.css" />
 	<title></title>
 </head>
 <body>

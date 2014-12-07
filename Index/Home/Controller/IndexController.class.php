@@ -6,14 +6,27 @@ class IndexController extends Controller {
       $this->display();
     }
     public function teach(){
-        $this->display();
+		$teach=D('b_teacher_list');
+		$info=$teach->select();
+		$this->assign('info',$info);
+
+		$interview=D('b_interview');
+		$list=$interview->select();
+		$this->assign('list',$list);
+                $this->display();
 
     }
-	public function course(){
+	function view_info(){
+		$interview=D('b_interview');
+		$list=$interview->find();
+		$this->assign('list',$list);
         $this->display();
+	}
+	public function course(){
+                   $this->display();
 
     }
 	public function quesion(){
-        $this->display();
+                 $this->display();
     }
 }

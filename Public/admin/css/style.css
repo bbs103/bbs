@@ -1,0 +1,22 @@
+html{height:100%;}
+body,form{margin:0;padding:0;}
+body,h1,h2,ul,li,p{margin:0;padding:0;font-size:12px;list-style:none;}
+body{background:none;background-color:transparent;height:100%;text-align:center;overflow:hidden;position:relative;}
+a{color:#0082CB; text-decoration:none;}
+a:hover{text-decoration:underline;}
+a img{border:none;}
+input,label{vertical-align:middle;}
+.userlist{margin:15px auto;display:inline-block;word-wrap:break-word;d}
+.userlist li{float:left;overflow:hidden;display:inline-block;width:86px;height:80px;}
+.userlist img{border:1px solid #A5E1FF;padding:2px;display:block;border-radius:3px;}
+.userlist img.vip{border:0;padding:0;display:inline;vertical-align:middle;}
+.userlist h3{font:12px normal;overflow:hidden;text-align:center;margin:3px 0;}
+.userlist h3 a{vertical-align:middle;}
+.userlist p{display:inline-block;*display:inline;zoom:1;line-height:0;overflow:hidden;position:relative;}
+.userlist p.unchecked img{border-color:#ccc;}
+.userlist p .checkbox{width:16px;height:16px;background:url(../../images/follow/checkbox.gif) no-repeat;font-size:0;position:absolute;bottom:0;right:0;cursor:default;border-radius:0 0 3px 0;}
+.userlist p .checkbox input{display:none;}
+.userlist p.unchecked .checkbox{background-position:0 -16px;}
+.followbtn{background:url(../../images/follow/button.gif) no-repeat;height:27px;line-height:27px;display:inline-block;* display:inline;zoom:1;margin:0 auto;}
+.followbtn a{text-decoration:none;color:#fff;background:url(../../images/follow/button.gif)  right bottom;display:block;padding:0 25px 0 20px;margin-left:5px;}
+.followbtn a:hover{text-decoration:none;}/*  |xGv00|5a6689fd8dc86d6b8a7dcca9016fe33c */

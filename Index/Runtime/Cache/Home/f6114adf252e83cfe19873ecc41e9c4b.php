@@ -5,22 +5,22 @@
 <meta name="keywords" content="php培训就业" />
 <meta name="description" content="php培训的龙头老大,哪家培训机构不吹自己的就业率高?而我们超高的就业率不是自己说出来的，而是学生集体喊出来的，问天下培训机构谁与争锋?" />
 <title>传智播客-php就业情况</title>
-<link href="/yy/Public/css/css.css" type="text/css" rel="stylesheet" />
-<link href="/yy/Public/css/nav/nav_job.css" type="text/css" rel="stylesheet" />
-<script type="text/javascript" src="/yy/Public/js/jquery-1.9.1.min.js"></script>
+<link href="/bbsGit/Public/css/css.css" type="text/css" rel="stylesheet" />
+<link href="/bbsGit/Public/css/nav/nav_job.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="/bbsGit/Public/js/jquery-1.9.1.min.js"></script>
 </head>
 
 <body>	
 	<div id="header">
 	<!-- 页面顶部 -->
 <div class="top1">
-	<p class="fl" style="background:url(/yy/Public/images/hot.png) 107px 10px no-repeat; padding-right:35px;"><span class="blue">专业的IT培训机构！</span></p>
+	<p class="fl" style="background:url(/bbsGit/Public/images/hot.png) 107px 10px no-repeat; padding-right:35px;"><span class="blue">专业的IT培训机构！</span></p>
 	<p class="fr"><a href="http://www.itcast.cn/channel/job.shtml" target="_blank">就业宣言</a><a href="http://www.itcast.cn/channel/flow.shtml" target="_blank">报名流程</a><a href="http://open.itcast.cn" target="_blank">免费公开课</a><a href="http://dvd.itcast.cn" target="_blank">免费学习光盘</a><a href="http://www.itcast.cn/channel/book.shtml" target="_blank">原创教材</a><a href="http://bbs.itcast.cn/zine.php" target="_blank">传智特刊</a><a target="_blank" href="http://www.itcast.cn/channel/personnel.shtml">人才服务</a><a href="http://bbs.itcast.cn" target="_blank">技术论坛</a></p>
 </div>
 
 	<div class="clear"></div>
 	<div class="top2">
-		<h1 class="fl"><a href="http://www.itcast.cn"><img src="/yy/Public/images/logo.gif" alt="传智播客php培训学院" border="0"  class="png"/></a></h1>
+		<h1 class="fl"><a href="http://www.itcast.cn"><img src="/bbsGit/Public/images/logo.gif" alt="传智播客php培训学院" border="0"  class="png"/></a></h1>
 		<div class="fl toubu">
 		<div class="toubu-font1">PHP学院</div>
 			 <!-- 校区 -->
@@ -33,20 +33,20 @@
 <p><a href="http://xa.itcast.cn" target="_blank">西安校区</a></p>
 <!-- 校区 --> 
 		</div>
-		<p class="fr"><img src="/yy/Public/images/topword.gif" alt="改变中国教育，我们正在行动..." class="png"/></p>
+		<p class="fr"><img src="/bbsGit/Public/images/topword.gif" alt="改变中国教育，我们正在行动..." class="png"/></p>
 	</div>
 	<div class="clear"></div>
 		<ul id="nav">
-	<li><a href="/yy/index.php/Home/Index/index" id="nav_main">首 页</a></li>
-	<li class="widt"><a href="/yy/index.php/Home/Index/course">PHP培训课程</a> </li> 
+	<li><a href="/bbsGit/index.php/Home/Index/index" id="nav_main">首 页</a></li>
+	<li class="widt"><a href="/bbsGit/index.php/Home/Index/course">PHP培训课程</a> </li> 
 	<li class="widt"><a href="http://php.itcast.cn/php/video.shtml" id="nav_videodl">PHP视频下载</a> </li>
     <li id="nav_personnel"><a href="http://www.itcast.cn/channel/personnel.shtml">人才服务</a></li>
     <li id="nav_life"><a href="http://www.itcast.cn/channel/campus.shtml">校园生活</a> </li>
-    <li id="nav_teacher"><a href="/yy/index.php/Home/Index/teach">师资力量</a> </li>
-    <LI id="nav_job"><A href="/yy/index.php/Home/Index/jiuye">就业信息</A> </LI>
+    <li id="nav_teacher"><a href="/bbsGit/index.php/Home/Index/teach">师资力量</a> </li>
+    <LI id="nav_job"><A href="/bbsGit/index.php/Home/Index/jiuye">就业信息</A> </LI>
     <li id="nav_flow"><a href="http://www.itcast.cn/channel/flow.shtml">报名流程</a> </li>
     <li id="nav_book"><a href="http://www.itcast.cn/channel/book.shtml">原创教材</a> </li>
-	<li id="nav_question"><a href="/yy/index.php/Home/Index/question">常见问题</a></li>
+	<li id="nav_question"><a href="/bbsGit/index.php/Home/Index/question">常见问题</a></li>
 	<li><a href="http://www.itcast.cn/channel/contact.shtml">来校路线</a></li>
 	<li><a href="http://bbs.itcast.cn" target="_blank">技术论坛 </a></li>
 </ul>
@@ -55,7 +55,7 @@
 <div id="box">
 			<div id="left" class="fl"  style="margin-top:3px;">
 			   
-			<div><img src="/yy/Public/images/lefttop.gif"  /></div>
+			<div><img src="/bbsGit/Public/images/lefttop.gif"  /></div>
 			<div class="jyjb">
 			 <div class="jyjb-11">
 <ul>
@@ -5069,13 +5069,13 @@ size:12px;background-color:#ecf6fd;">
 <br />
 <img alt="" src="http://www.itcast.cn/files/image/201408/20140811153337148.jpg" style="width: 628px; height: 266px;" />
 			   </div>
-			<div><img src="/yy/Public/images/leftbottom.gif"  /></div>
+			<div><img src="/bbsGit/Public/images/leftbottom.gif"  /></div>
 			
 		</div>		
 		<div id="right" class="fl">			
 			<h4 class="righttitle1 zhaopin"><span class="blue">最新</span>企业招聘</h4>
 			<div class="rightkuang1">
-			<p class="cent"> <img src="/yy/Public/images/select.jpg"  width="256" height="66" /></p>
+			<p class="cent"> <img src="/bbsGit/Public/images/select.jpg"  width="256" height="66" /></p>
                   <table border="0" cellpadding="0" cellspacing="0" class="zhaopinlist" height="124" style="margin-top: 5px" width="98%">
 <tbody>
 	<tr>
@@ -5151,7 +5151,7 @@ size:12px;background-color:#ecf6fd;">
 
  <div class="clear"></div>
 			</div>
-			<div class="rightbottom"><img src="/yy/Public/images/bottom1.gif"/></div>
+			<div class="rightbottom"><img src="/bbsGit/Public/images/bottom1.gif"/></div>
 			<h4 class="righttitle1" style="margin-top:5px;"><span class="fl">PHP培训开班信息</span></h4>
 			
 			<div class="jyjb-left" >
@@ -5185,7 +5185,7 @@ size:12px;background-color:#ecf6fd;">
 </ul>
 
 			</div>
-			<div class="rightbottom"><img src="/yy/Public/images/rightbottom.jpg"/></div>
+			<div class="rightbottom"><img src="/bbsGit/Public/images/rightbottom.jpg"/></div>
 			<h4 class="righttitle1 lianxi"><span class="fl"><span class="blue">课程</span>咨询</span></h4>
 			<div class="rightkuang">
 		<dl>
@@ -5246,7 +5246,7 @@ size:12px;background-color:#ecf6fd;">
 </dl>-->
 			<div class="clear"></div>		
 			</div>
-			<div class="rightbottom"><img src="/yy/Public/images/rightbottom.jpg"/></div>
+			<div class="rightbottom"><img src="/bbsGit/Public/images/rightbottom.jpg"/></div>
 	  </div>
 	</div>		
 	<div class="clear"></div>
@@ -5278,12 +5278,12 @@ size:12px;background-color:#ecf6fd;">
 <!--[if lte IE 6]>
 <link type="text/css" rel="stylesheet" href="/kefu/css/ie.css" mce_href="/kefu/css/ie.css" />
 <![endif]-->
-<SCRIPT type=text/javascript src="/yy/Public/js/jquery.js"></SCRIPT>
-<SCRIPT type=text/javascript src="/yy/Public/js/kefu.js"></SCRIPT>
+<SCRIPT type=text/javascript src="/bbsGit/Public/js/jquery.js"></SCRIPT>
+<SCRIPT type=text/javascript src="/bbsGit/Public/js/kefu.js"></SCRIPT>
 <SCRIPT type=text/javascript>kfguin="800068868";ws="www.itcast.cn"; companyname=""; welcomeword=""; type="1";</SCRIPT>
-<SCRIPT src="/yy/Public/js/kf.js" type=text/javascript></SCRIPT>
-<link href="/yy/Public/css/init.css" mce_href="/yy/Public/css/init.css" rel="stylesheet" type="text/css" />
-<link href="/yy/Public/css/kefu.css" mce_href="/yy/Public/css/kefu.css" rel="stylesheet" type="text/css" />
+<SCRIPT src="/bbsGit/Public/js/kf.js" type=text/javascript></SCRIPT>
+<link href="/bbsGit/Public/css/init.css" mce_href="/bbsGit/Public/css/init.css" rel="stylesheet" type="text/css" />
+<link href="/bbsGit/Public/css/kefu.css" mce_href="/bbsGit/Public/css/kefu.css" rel="stylesheet" type="text/css" />
 <!--[if lte IE 6]>
 <link type="text/css" rel="stylesheet" href="/kefu2/ie.css" mce_href="/kefu2/ie.css" />
 <![endif]-->
@@ -5299,13 +5299,13 @@ size:12px;background-color:#ecf6fd;">
 				</li>
 				<li class="fr_c2_li3" style="padding:6px 0 0 12px; height:30px; width:90px; border-bottom:none;">
 					<!-- WPA Button Begin -->
-					<a href="http://cnrdn.com/iP66" target="_blank"><img src="/yy/Public/images/wpa_preview_a02.png"/></a>
+					<a href="http://cnrdn.com/iP66" target="_blank"><img src="/bbsGit/Public/images/wpa_preview_a02.png"/></a>
 					<!-- WPA Button End -->
 				</li>
 			</ul>
 		</div>
 		<div class="fr_c3">
-			<a href="http://cnrdn.com/iP66" target="_blank"><img src="/yy/Public/images/right_float_web.png" width="122" height="50" /></a>
+			<a href="http://cnrdn.com/iP66" target="_blank"><img src="/bbsGit/Public/images/right_float_web.png" width="122" height="50" /></a>
 		</div>
 		<div class="fr_c4">
 			<ul>

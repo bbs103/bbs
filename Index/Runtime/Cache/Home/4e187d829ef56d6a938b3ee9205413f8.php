@@ -5,10 +5,10 @@
 <meta name="keywords" content="php课程" />
 <meta name="description" content="php培训的龙头老大,拥有国内最好的php培训课程，课程内容包含目前最流行的zendframework、thinkphp框架、ECShop、dedecms等产品的二次开发。" />
 <title>国内最好的php培训课程，课程内容包含zendframework、thinkphp框架、ECShop、dedecms等产品的二次开发</title>
-<link href="/yy/Public/css/css.css" type="text/css" rel="stylesheet" />
-<link href="/yy/Public/css/bdsstyle.css" type="text/css" rel="stylesheet" />
-<link href="/yy/Public/css/nav_course.css" type="text/css" rel="stylesheet" />
-<script type="text/javascript" src="/yy/Public/js/jquery-1.9.1.min.js"></script>
+<link href="/bbsGit/Public/css/css.css" type="text/css" rel="stylesheet" />
+<link href="/bbsGit/Public/css/bdsstyle.css" type="text/css" rel="stylesheet" />
+<link href="/bbsGit/Public/css/nav_course.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="/bbsGit/Public/js/jquery-1.9.1.min.js"></script>
 <script type="text/javascript" id="bdshare_js" data="type=tools" ></script>
 <script type="text/javascript" id="bdshell_js"></script>
 </head>
@@ -23,7 +23,7 @@
 
     <div class="clear"></div>
     <div class="top2">
-        <h1 class="fl"><a href="http://www.itcast.cn"><img src="/yy/Public/images/logo.gif" alt="传智播客php培训学院" border="0"  class="png"/></a></h1>
+        <h1 class="fl"><a href="http://www.itcast.cn"><img src="/bbsGit/Public/images/logo.gif" alt="传智播客php培训学院" border="0"  class="png"/></a></h1>
         <div class="fl toubu">
         <div class="toubu-font1">PHP学院</div>
              <!-- 校区 -->
@@ -36,11 +36,11 @@
 <p><a href="http://xa.itcast.cn" target="_blank">西安校区</a></p>
 <!-- 校区 --> 
         </div>
-       <P class="fr"><IMG class="png" alt="改变中国教育，我们正在行动..." src="/yy/Public/images/topword.gif"></P></DIV>
+       <P class="fr"><IMG class="png" alt="改变中国教育，我们正在行动..." src="/bbsGit/Public/images/topword.gif"></P></DIV>
 <DIV class="clear"></DIV>
 <UL id="nav">
-	<li><a href="/yy/index.php/Home/Index/index" id="nav_main">首 页</a></li>
-  <LI class="widt"><A id="nav_course" href="/yy/index.php/Home/Index/course">PHP培训课程</A> 
+	<li><a href="/bbsGit/index.php/Home/Index/index" id="nav_main">首 页</a></li>
+  <LI class="widt"><A id="nav_course" href="/bbsGit/index.php/Home/Index/course">PHP培训课程</A> 
   </LI>
   <LI class="widt"><A id="nav_videodl" href="http://php.itcast.cn/php/video.shtml">PHP视频下载</A> 
   </LI>
@@ -48,15 +48,15 @@
   href="http://www.itcast.cn/channel/personnel.shtml">人才服务</A></LI>
   <LI id="nav_life"><A href="http://www.itcast.cn/channel/campus.shtml">校园生活</A> 
   </LI>
-  <LI id="nav_teacher"><a href="/yy/index.php/Home/Index/teach">师资力量</a> 
+  <LI id="nav_teacher"><a href="/bbsGit/index.php/Home/Index/teach">师资力量</a> 
   </LI>
-    <LI id="nav_job"><A href="/yy/index.php/Home/Index/jiuye">就业信息</A> </LI>
+    <LI id="nav_job"><A href="/bbsGit/index.php/Home/Index/jiuye">就业信息</A> </LI>
   <LI id="nav_flow"><A href="http://www.itcast.cn/channel/flow.shtml">报名流程</A> 
   </LI>
   <LI id="nav_book"><A href="http://www.itcast.cn/channel/book.shtml">原创教材</A> 
   </LI>
   <LI id="nav_question"><A 
-  href="/yy/index.php/Home/Index/question">常见问题</A></LI>
+  href="/bbsGit/index.php/Home/Index/question">常见问题</A></LI>
   <LI><A href="http://www.itcast.cn/channel/contact.shtml">来校路线</A></LI>
   <LI><A href="http://Index.itcast.cn/" target="_blank">技术论坛 </A></LI></UL></DIV>
 <DIV id="box">
@@ -72,13 +72,13 @@
     </div>
 <!-- Baidu share END 需在页面底部添加baidushare.js -->
                <div style="padding-left:10px;float:left;">
-                 <b>其它学院入口：</b>  <img src="/yy/Public/images/sanjiao.jpg" /> <a href="http://net.itcast.cn">.net学院</a> <img src="/yy/Public/images/sanjiao.jpg" /> <a href="http://java.itcast.cn">java学院</a>  <img src="/yy/Public/images/sanjiao.jpg" /> <a href="http://icd.itcast.cn">网页平面设计学院</a>
+                 <b>其它学院入口：</b>  <img src="/bbsGit/Public/images/sanjiao.jpg" /> <a href="http://net.itcast.cn">.net学院</a> <img src="/bbsGit/Public/images/sanjiao.jpg" /> <a href="http://java.itcast.cn">java学院</a>  <img src="/bbsGit/Public/images/sanjiao.jpg" /> <a href="http://icd.itcast.cn">网页平面设计学院</a>
                </div>
             </div>
               <div id="left" class="fl"  style="margin-top:3px;">
-            <div><img src="/yy/Public/images/lefttop.gif"/></div>
+            <div><img src="/bbsGit/Public/images/lefttop.gif"/></div>
             <div class="jyjb">
-            <div><img src="/yy/Public/images/kcjs-tu.jpg" /></div>
+            <div><img src="/bbsGit/Public/images/kcjs-tu.jpg" /></div>
              ﻿
 <div class="kcjs">
 <style type="text/css">
@@ -219,7 +219,7 @@
 <br />
 
             </div>
-            <div><img src="/yy/Public/images/leftbottom.gif"/></div>
+            <div><img src="/bbsGit/Public/images/leftbottom.gif"/></div>
                 <div></div>
         </div>      
         <div id="right" class="fl">         
@@ -255,7 +255,7 @@
 </ul>
 
             </div>
-            <div class="rightbottom"><img src="/yy/Public/images/rightbottom.jpg"/></div>
+            <div class="rightbottom"><img src="/bbsGit/Public/images/rightbottom.jpg"/></div>
             <h4 class="righttitle1 lianxi"><span class="fl"><span class="blue">课程</span>咨询</span></h4>
             
             <div class="rightkuang">
@@ -348,12 +348,12 @@
 <!--[if lte IE 6]>
 <link type="text/css" rel="stylesheet" href="/kefu/css/ie.css" mce_href="/kefu/css/ie.css" />
 <![endif]-->
-<SCRIPT type=text/javascript src="/yy/Public/js/jquery.js"></SCRIPT>
-<SCRIPT type=text/javascript src="/yy/Public/js/kefu.js"></SCRIPT>
+<SCRIPT type=text/javascript src="/bbsGit/Public/js/jquery.js"></SCRIPT>
+<SCRIPT type=text/javascript src="/bbsGit/Public/js/kefu.js"></SCRIPT>
 <SCRIPT type=text/javascript>kfguin="800068868";ws="www.itcast.cn"; companyname=""; welcomeword=""; type="1";</SCRIPT>
-<SCRIPT src="/yy/Public/js/kf.js" type=text/javascript></SCRIPT>
-<link href="/yy/Public/css/init.css" mce_href="/yy/Public/css/init.css" rel="stylesheet" type="text/css" />
-<link href="/yy/Public/css/kefu.css" mce_href="/yy/Public/css/kefu.css" rel="stylesheet" type="text/css" />
+<SCRIPT src="/bbsGit/Public/js/kf.js" type=text/javascript></SCRIPT>
+<link href="/bbsGit/Public/css/init.css" mce_href="/bbsGit/Public/css/init.css" rel="stylesheet" type="text/css" />
+<link href="/bbsGit/Public/css/kefu.css" mce_href="/bbsGit/Public/css/kefu.css" rel="stylesheet" type="text/css" />
 <!--[if lte IE 6]>
 <link type="text/css" rel="stylesheet" href="/kefu2/ie.css" mce_href="/kefu2/ie.css" />
 <![endif]-->
@@ -369,13 +369,13 @@
                 </li>
                 <li class="fr_c2_li3" style="padding:6px 0 0 12px; height:30px; width:90px; border-bottom:none;">
                     <!-- WPA Button Begin -->
-                    <a href="http://cnrdn.com/iP66" target="_blank"><img src="/yy/Public/images/wpa_preview_a02.png"/></a>
+                    <a href="http://cnrdn.com/iP66" target="_blank"><img src="/bbsGit/Public/images/wpa_preview_a02.png"/></a>
                     <!-- WPA Button End -->
                 </li>
             </ul>
         </div>
         <div class="fr_c3">
-            <a href="http://cnrdn.com/iP66" target="_blank"><img src="/yy/Public/images/right_float_web.png" width="122" height="50" /></a>
+            <a href="http://cnrdn.com/iP66" target="_blank"><img src="/bbsGit/Public/images/right_float_web.png" width="122" height="50" /></a>
         </div>
         <div class="fr_c4">
             <ul>

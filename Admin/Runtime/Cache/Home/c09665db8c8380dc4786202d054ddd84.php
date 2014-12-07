@@ -3,9 +3,9 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
 	<title>后盾网HDPHP博客后台管理首页</title>
-	<link rel="stylesheet" href="/yy/Public/admin/css/admin.css" />
-	<script type="text/javascript" src="/yy/Public/admin/js/jquery-1.7.2.min.js"></script>
-	<script type="text/javascript" src="/yy/Public/admin/js/admin.js"></script>
+	<link rel="stylesheet" href="/bbsGit/Public/admin/css/admin.css" />
+	<script type="text/javascript" src="/bbsGit/Public/admin/js/jquery-1.7.2.min.js"></script>
+	<script type="text/javascript" src="/bbsGit/Public/admin/js/admin.js"></script>
 <!-- 默认打开目标 -->
 <base target="iframe"/>
 </head>
@@ -112,7 +112,25 @@
 				    </ul>
 				
 				</div>
-			</div>			
+			</div>	
+
+			 <div class="menu_box">
+				<h2>师资力量</h2>
+				<div class="text">
+					<ul class="con">
+				        <li class="nav_u">
+				        	<a href="/bbsGit/admin.php/Home/Teach/add_teacher" class="pos">添加教师</a>				        	
+				        </li> 
+				    </ul>
+				    <ul class="con">
+				        <li class="nav_u">
+				        	<a href="/bbsGit/admin.php/Home/Teach/teacher_list" class="pos">教师列表</a>				        	
+				        </li> 
+				    </ul>
+				
+				</div>
+			</div>
+
 		</div>
 		<!-- 右侧 -->
 		<div id="right">

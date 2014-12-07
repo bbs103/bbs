@@ -3,9 +3,9 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
 	<title></title>
-	<link rel="stylesheet" href="/yy/Public/admin/css/public.css" />
-	<script type="text/javascript" src="/yy/Public/admin/js/jquery-1.7.2.min.js"></script>
-	<script type="text/javascript" src="/yy/Public/admin/js/public.js"></script>	
+	<link rel="stylesheet" href="/bbsGit/Public/admin/css/public.css" />
+	<script type="text/javascript" src="/bbsGit/Public/admin/js/jquery-1.7.2.min.js"></script>
+	<script type="text/javascript" src="/bbsGit/Public/admin/js/public.js"></script>	
 </head>
 <body>
 	<table class="table">
